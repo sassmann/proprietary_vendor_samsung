@@ -52,16 +52,16 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/lentis-common/proprietary/etc/firmware/cpp_firmware_v1_1_6.fw:system/vendor/firmware/cpp_firmware_v1_1_6.fw \
     vendor/samsung/lentis-common/proprietary/etc/firmware/cpp_firmware_v1_2_0.fw:system/vendor/firmware/cpp_firmware_v1_2_0.fw \
     vendor/samsung/lentis-common/proprietary/etc/firmware/cpp_firmware_v1_6_0.fw:system/vendor/firmware/cpp_firmware_v1_6_0.fw \
-    vendor/samsung/lentis-common/proprietary/etc/firmware/nvm_tlv.bin:system/vendor/firmware/nvm_tlv.bin \
-    vendor/samsung/lentis-common/proprietary/etc/firmware/nvm_tlv_1.3.bin:system/vendor/firmware/nvm_tlv_1.3.bin \
-    vendor/samsung/lentis-common/proprietary/etc/firmware/nvm_tlv_2.1.bin:system/vendor/firmware/nvm_tlv_2.1.bin \
-    vendor/samsung/lentis-common/proprietary/etc/firmware/nvm_tlv_3.0.bin:system/vendor/firmware/nvm_tlv_3.0.bin \
+    vendor/samsung/lentis-common/proprietary/etc/firmware/nvm_tlv.bin:system/etc/firmware/nvm_tlv.bin \
+    vendor/samsung/lentis-common/proprietary/etc/firmware/nvm_tlv_1.3.bin:system/etc/firmware/nvm_tlv_1.3.bin \
+    vendor/samsung/lentis-common/proprietary/etc/firmware/nvm_tlv_2.1.bin:system/etc/firmware/nvm_tlv_2.1.bin \
+    vendor/samsung/lentis-common/proprietary/etc/firmware/nvm_tlv_3.0.bin:system/etc/firmware/nvm_tlv_3.0.bin \
     vendor/samsung/lentis-common/proprietary/etc/firmware/otp20.bin:system/vendor/firmware/otp20.bin \
     vendor/samsung/lentis-common/proprietary/etc/firmware/qwlan20.bin:system/vendor/firmware/qwlan20.bin \
-    vendor/samsung/lentis-common/proprietary/etc/firmware/rampatch_tlv.img:system/vendor/firmware/rampatch_tlv.img \
-    vendor/samsung/lentis-common/proprietary/etc/firmware/rampatch_tlv_1.3.tlv:system/vendor/firmware/rampatch_tlv_1.3.tlv \
-    vendor/samsung/lentis-common/proprietary/etc/firmware/rampatch_tlv_2.1.tlv:system/vendor/firmware/rampatch_tlv_2.1.tlv \
-    vendor/samsung/lentis-common/proprietary/etc/firmware/rampatch_tlv_3.0.tlv:system/vendor/firmware/rampatch_tlv_3.0.tlv \
+    vendor/samsung/lentis-common/proprietary/etc/firmware/rampatch_tlv.img:system/etc/firmware/rampatch_tlv.img \
+    vendor/samsung/lentis-common/proprietary/etc/firmware/rampatch_tlv_1.3.tlv:system/etc/firmware/rampatch_tlv_1.3.tlv \
+    vendor/samsung/lentis-common/proprietary/etc/firmware/rampatch_tlv_2.1.tlv:system/etc/firmware/rampatch_tlv_2.1.tlv \
+    vendor/samsung/lentis-common/proprietary/etc/firmware/rampatch_tlv_3.0.tlv:system/etc/firmware/rampatch_tlv_3.0.tlv \
     vendor/samsung/lentis-common/proprietary/etc/firmware/utf20.bin:system/vendor/firmware/utf20.bin \
     vendor/samsung/lentis-common/proprietary/etc/firmware/utfbd20.bin:system/vendor/firmware/utfbd20.bin \
     vendor/samsung/lentis-common/proprietary/lib/F16UL_libTsAe.so:system/vendor/lib/F16UL_libTsAe.so \
